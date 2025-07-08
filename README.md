@@ -19,7 +19,13 @@ Each time you reload the page, the background changes to a randomly selected **a
 - ⌛ 10 attempts to guess correctly
 
 ---
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/34448bca-7729-4ae9-9d9d-5160b74a0b39)
+![image](https://github.com/user-attachments/assets/695259cd-151a-49ae-8d3e-9dda97a7851c)
+![image](https://github.com/user-attachments/assets/fd98014c-2bcf-4f57-9f9a-855b09f5784d)
+![image](https://github.com/user-attachments/assets/767c1e16-0e09-4d51-a398-6ca20ffe519b)
 
+---
 ## 🎮 How to Play
 
 1. Click the **Enter** button to submit a guess (via a prompt window).
