@@ -45,5 +45,5 @@ Each time you reload the page, the background changes to a randomly selected **a
 ## 📎 Credits
 - **Background GIFs**: Curated from aesthetic/lo-fi art styles (credit to artists if applicable)
 - **Fonts**: Old Standard TT
-- Background.gif, Background2.gif ,Background5.gof, and Background6.gif by **27KB**
+- Background.gif, Background2.gif ,Background5.gif, and Background6.gif by **27KB**
 - **Code & design**: Created by Annabelle Moore
