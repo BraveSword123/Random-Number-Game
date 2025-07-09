@@ -22,7 +22,7 @@ Each time you reload the page, the background changes to a randomly selected **a
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/93cd5adb-ec6c-492f-add6-7e9f3cadbfbb)
 ![image](https://github.com/user-attachments/assets/af78d7df-5baa-4798-88f2-233085fe1316)
-![image](https://github.com/user-attachments/assets/2f0e09cf-612a-40f7-9ccd-1c5746f2722d)
+![image](https://github.com/user-attachments/assets/6fab51bc-5c15-475a-8461-73edf55d7abf)
 ![image](https://github.com/user-attachments/assets/845a1d6d-bb1a-4692-98c6-c3143c7d47e4)
 ![image](https://github.com/user-attachments/assets/bb41f703-6651-45b8-9568-bc44077fdfa8)
 ![image](https://github.com/user-attachments/assets/d4257faf-7e9c-4063-82af-0d804a1a4962)
