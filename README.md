@@ -20,10 +20,11 @@ Each time you reload the page, the background changes to a randomly selected **a
 
 ---
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/34448bca-7729-4ae9-9d9d-5160b74a0b39)
-![image](https://github.com/user-attachments/assets/695259cd-151a-49ae-8d3e-9dda97a7851c)
-![image](https://github.com/user-attachments/assets/fd98014c-2bcf-4f57-9f9a-855b09f5784d)
-![image](https://github.com/user-attachments/assets/767c1e16-0e09-4d51-a398-6ca20ffe519b)
+![image](https://github.com/user-attachments/assets/1fb252dd-2b53-4d32-b3e0-572afc279fc3)
+![image](https://github.com/user-attachments/assets/93cd5adb-ec6c-492f-add6-7e9f3cadbfbb)
+![image](https://github.com/user-attachments/assets/af78d7df-5baa-4798-88f2-233085fe1316)
+
+
 
 ---
 ## 🎮 How to Play
